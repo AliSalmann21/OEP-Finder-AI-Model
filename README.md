@@ -55,7 +55,7 @@ seaborn 0.9.0+
 
 ## Credits
 
-This project was created by [Ali Salman](https://github.com/AliSalmann21 as part of a Automating the finding of an OEP of the program.
+This project was created by [Ali Salman](https://github.com/AliSalmann21) as part of a Automating the finding of an OEP of the program.
 
 ## License
 
